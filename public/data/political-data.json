@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "constituency": "Malkajgiri",
+    "number": 7,
+    "state": "Telangana",
+    "sources": [
+      {
+        "label": "ECI 2024 results",
+        "url": "https://results.eci.gov.in/",
+        "type": "Primary source"
+      },
+      {
+        "label": "ECI 2014 constituency-wise results PDF",
+        "url": "https://www.eci.gov.in/eci-backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfXbEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzVx8fLfn2ReU7TfrqYobgIhF%2FZR0A1hI1LugemKEAHBUkKsDmSKlr%2BORN5EjX%2BX%2FP44987Vx6Oc50gQpI6P4je5YJD2JjKrjaK3Vzxw1dTTB1gfiU%2BxnVaxMZ%2BnbWDNR%2B",
+        "type": "Primary source"
+      },
+      {
+        "label": "ECI 2023 Telangana Assembly detailed results",
+        "url": "https://www.eci.gov.in/eci-backend/public/all_files/full-statistical-reports/telangana/2023/Detailed_Results.pdf",
+        "type": "Primary source"
+      },
+      {
+        "label": "ECI 2023 constituency summary report",
+        "url": "https://www.eci.gov.in/eci-backend/public/all_files/full-statistical-reports/telangana/2023/Constituency_Data_Summery_Report.pdf",
+        "type": "Primary source"
+      },
+      {
+        "label": "Census of India Population Finder 2011",
+        "url": "https://censusindia.mha.gov.in/census.website/en/data/population-finder",
+        "type": "Primary source"
+      },
+      {
+        "label": "Constituency factbook demographics based on Census 2011",
+        "url": "https://www.indiastatpublications.com/Constituency_Factbook/Telangana/Malkajgiri",
+        "type": "Secondary cross-reference"
+      }
+    ],
+    "notes": [
+      "Parliamentary candidate tables contain the leading three candidates per year, not the full ballot.",
+      "Assembly explorer includes 2023 winner/runner-up snapshots; some electors and turnout fields are unavailable.",
+      "Demographics are 2011 reference figures, not current estimates. Gender distribution is unavailable.",
+      "Static local JSON, not a live API. Check all candidate rows against official ECI final records/Form-20 before formal reliance.",
+      "Vote share denominator is total valid votes, defined for this snapshot as votes polled minus NOTA votes."
+    ]
+  },
+  "overview": {
+    "coverage": "Urban and peri-urban areas in the Hyderabad metropolitan region. Exact boundary coverage should be checked against the latest ECI delimitation map.",
+    "segments": [
+      {
+        "name": "Medchal",
+        "number": 43
+      },
+      {
+        "name": "Malkajgiri",
+        "number": 44
+      },
+      {
+        "name": "Quthbullapur",
+        "number": 45
+      },
+      {
+        "name": "Kukatpally",
+        "number": 46
+      },
+      {
+        "name": "Uppal",
+        "number": 47
+      },
+      {
+        "name": "Lal Bahadur Nagar",
+        "number": 49
+      },
+      {
+        "name": "Secunderabad Cantonment",
+        "number": 71,
+        "reservation": "SC"
+      }
+    ],
+    "demographics": {
+      "year": 2011,
+      "population": 2428066,
+      "urban": 91.36,
+      "rural": 8.64,
+      "sc": 9.79,
+      "st": 2.19,
+      "literacy": 67.74,
+      "gender": null
+    }
+  },
+  "parliamentary": [
+    {
+      "year": 2014,
+      "electors": 3183083,
+      "votesPolled": 1624859,
+      "nota": 8692,
+      "turnout": 51.05,
+      "candidates": [
+        {
+          "name": "Ch. Malla Reddy",
+          "party": "Telugu Desam Party",
+          "short": "TDP",
+          "votes": 523356
+        },
+        {
+          "name": "Hanumanth Rao Mynampally",
+          "party": "Telangana Rashtra Samithi",
+          "short": "TRS",
+          "votes": 495190
+        },
+        {
+          "name": "Sarvey Sathyanarayana",
+          "party": "Indian National Congress",
+          "short": "INC",
+          "votes": 233530
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "electors": 3150313,
+      "votesPolled": 1563063,
+      "nota": 17895,
+      "turnout": 49.61,
+      "candidates": [
+        {
+          "name": "Anumula Revanth Reddy",
+          "party": "Indian National Congress",
+          "short": "INC",
+          "votes": 603748
+        },
+        {
+          "name": "Marri Rajashekar Reddy",
+          "party": "Telangana Rashtra Samithi",
+          "short": "TRS",
+          "votes": 592829
+        },
+        {
+          "name": "Naraparaju Ramchander Rao",
+          "party": "Bharatiya Janata Party",
+          "short": "BJP",
+          "votes": 304282
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "electors": 3779596,
+      "votesPolled": 1933843,
+      "nota": 13366,
+      "turnout": 51.17,
+      "candidates": [
+        {
+          "name": "Eatala Rajender",
+          "party": "Bharatiya Janata Party",
+          "short": "BJP",
+          "votes": 991042
+        },
+        {
+          "name": "Patnam Suneetha Mahender Reddy",
+          "party": "Indian National Congress",
+          "short": "INC",
+          "votes": 599567
+        },
+        {
+          "name": "Ragidi Laxma Reddy",
+          "party": "Bharat Rashtra Samithi",
+          "short": "BRS",
+          "votes": 300486
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    {
+      "year": 2023,
+      "number": 43,
+      "name": "Medchal",
+      "electors": null,
+      "winner": {
+        "name": "Chamakura Mall Reddy",
+        "party": "BRS",
+        "votes": 186017
+      },
+      "runner": {
+        "name": "Thotakura Vajresh Yadav",
+        "party": "INC",
+        "votes": 152598
+      }
+    },
+    {
+      "year": 2023,
+      "number": 44,
+      "name": "Malkajgiri",
+      "electors": 488829,
+      "winner": {
+        "name": "Marri Rajashekar Reddy",
+        "party": "BRS",
+        "votes": 125049
+      },
+      "runner": {
+        "name": "Mynampally Hanumanth Rao",
+        "party": "INC",
+        "votes": 75519
+      }
+    },
+    {
+      "year": 2023,
+      "number": 45,
+      "name": "Quthbullapur",
+      "electors": null,
+      "winner": {
+        "name": "K. P. Vivekanand",
+        "party": "BRS",
+        "votes": 187999
+      },
+      "runner": {
+        "name": "Kuna Srisailam Goud",
+        "party": "BJP",
+        "votes": 102423
+      }
+    },
+    {
+      "year": 2023,
+      "number": 46,
+      "name": "Kukatpally",
+      "electors": null,
+      "winner": {
+        "name": "Madhavaram Krishna Rao",
+        "party": "BRS",
+        "votes": 135635
+      },
+      "runner": {
+        "name": "Bandi Ramesh",
+        "party": "INC",
+        "votes": 65248
+      }
+    },
+    {
+      "year": 2023,
+      "number": 47,
+      "name": "Uppal",
+      "electors": null,
+      "winner": {
+        "name": "Bandaru Lakshma Reddy",
+        "party": "BRS",
+        "votes": 132927
+      },
+      "runner": {
+        "name": "M. Parameshwar Reddy",
+        "party": "INC",
+        "votes": 83897
+      }
+    },
+    {
+      "year": 2023,
+      "number": 49,
+      "name": "Lal Bahadur Nagar",
+      "electors": 593762,
+      "winner": {
+        "name": "Devireddy Sudhir Reddy",
+        "party": "BRS",
+        "votes": 111380
+      },
+      "runner": {
+        "name": "Sama Ranga Reddy",
+        "party": "BJP",
+        "votes": 89075
+      }
+    },
+    {
+      "year": 2023,
+      "number": 71,
+      "name": "Secunderabad Cantonment",
+      "electors": null,
+      "winner": {
+        "name": "Lasya Nanditha Sayanna",
+        "party": "BRS",
+        "votes": 59057
+      },
+      "runner": {
+        "name": "Ganesh N.",
+        "party": "INC",
+        "votes": 41888
+      }
+    }
+  ]
+}
